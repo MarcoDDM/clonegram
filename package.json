@@ -1,0 +1,24 @@
+{
+  "name": "marcogram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos con tus amigos y la comunidad",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoDDM/clonegram.git"
+  },
+  "keywords": [
+    "instagram",
+    "fotos",
+    "compartidas"
+  ],
+  "author": "MarcoDDM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoDDM/clonegram/issues"
+  },
+  "homepage": "https://github.com/MarcoDDM/clonegram#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
