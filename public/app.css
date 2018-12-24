@@ -1,0 +1,55 @@
+body {
+	background: #fafafa;
+	color: #6287d6;
+	font-family: Montserrat;
+}
+
+#main-container {
+	margin: 30px auto;
+}
+
+#.phone {
+	max-width: 100%;
+}
+
+.site-footer {
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.login-box,
+.signup-box{
+	background-color: white;
+	border: 1px solid #edeeee;
+	border-radius: 3px;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.signup-box .titulo-gram {
+	font-family: Oleo Script;
+	font-size: 42px;
+	font-weight: bold;
+}
+
+.signup-form {
+	width: 65%;
+	margin: 0 auto;
+
+}
+.signup-form h2 {
+	color: #a5a7aa;
+	font-size: 1.2em;
+}
+
+.signup-form .btn.btn-fb {
+	background-color: #4090db;
+	font-size: .9em;
+}
+.signup-form .btn.btn-fb:hover {
+	background-color: #2d6599;
+}
+
+.signup-form .btn.btn-signup {
+	background-color: #125688;
+}
